@@ -1,0 +1,1027 @@
+Content-Type: multipart/related; start=<op.mhtml.1366130088056.44acee36166bdf17@169.254.218.113>; boundary=----------oXMMJU328iwy27ljS7nFjW
+Content-Location: http://java-course.ru/students/students.php?name=part7
+Subject: =?utf-8?Q?Java-=D1=82=D0=B5=D1=85=D0=BD=D0=BE=D0=BB=D0=BE=D0=B3=D0=B8=D0=B8?=
+MIME-Version: 1.0
+
+------------oXMMJU328iwy27ljS7nFjW
+Content-Disposition: inline; filename=students.htm
+Content-Type: text/html; charset=windows-1251; name=students.htm
+Content-ID: <op.mhtml.1366130088056.44acee36166bdf17@169.254.218.113>
+Content-Location: http://java-course.ru/students/students.php?name=part7
+Content-Transfer-Encoding: 8bit
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=cp1251">
+        <link rel="stylesheet" type="text/css" href="../css/javacourse.css" />
+
+        <title>Java-технологии</title>
+    </head>
+
+    <body>
+        <br />
+<b>Warning</b>:  include(../lib/header.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in <b>/home/javacour/public_html/students/students.php</b> on line <b>10</b><br />
+<br />
+<b>Warning</b>:  include() [<a href='function.include'>function.include</a>]: Failed opening '../lib/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in <b>/home/javacour/public_html/students/students.php</b> on line <b>10</b><br />
+        <table width="100%">
+            <tr valign="top">
+                <td style="width: 20%">
+                    <div class='jc-nav'>
+                        <h4>Книга 1 - Начальные сведения</h4>
+<ol>
+    <li>        
+        <a href="students.php?name=intro">Введение</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part1">Используем коллекции</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part2">Пользовательский интерфейс: начало</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part3">База данных</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part4">Пользовательский интерфейс, часть 1</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part5">Пользовательский интерфейс, часть 2</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part6">Пользовательский интерфейс, часть 3</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part7">WEB: что такое Servlet ?</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part8">WEB: что такое JSP ?</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part9">Простое WEB-приложение</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part10">Тестирование с точки зрения разработчика</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part11">Application Server и Enterprise Java Beans</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part12">Application Server и Enterprise Java Beans - копаем вглубь</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part13">"Студенческий отдел кадров" в виде Enterprise-приложения</a><br/>
+    </li>
+</ol>
+<h4>Книга 2 - Более профессиональный подход</h4>
+<ol>
+    <li>        
+        <a href="students.php?name=part14">Схема построения Enterprise-приложения</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part15">Новая структура данных</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part16">Hibernate. Начало пути</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part17">Hibernate. Запись в виде XML-файлов</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part18">Hibernate. Аннотации вместо XML</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part19">Spring. Бизнес-уровень в действии</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part20">Spring. Переходим на Web</a><br/>
+    </li>
+    <li>        
+        <a href="students.php?name=part21">Struts 1.x. Первое знакомство</a><br/>
+    </li>
+</ol>                    </div>
+                </td>
+
+
+                <td width='80%'>
+                    <div class="jc-article">
+                            <body>
+        <p class="copyright" align="right">
+            Студенческий отдел кадров<br/>
+            Пособие по JAVA-технологиям<br/>
+            (с) AntonSaburov<br/>
+        </p>
+        <h3>Интернет-приложения на JAVA</h3>
+        <p class="plain">
+            Когда начинающий программист (я тоже им был и испытывал подобные ощущения) первый раз сталкивается
+            с программированием для Интернет, то количество информации, которое на него обрушивается настолько
+            огромно, что может просто напугать. Странные сочетания TCP/IP, IP-адрес, HTTP, HTML, XML, WEB, JSP,
+            SNMP, SMPP, ICMP, UDP, servlet, proxy, порт, DNS (и это только малая часть всего) могут любого
+            заставить как минимум задуматься: "А смогу ли я это осилить ?". Смело заверяю вас - сможете :)<br/>
+            Я постараюсь провести вас через бОльшую часть моментов, которые вам потребуются для того, чтобы
+            научиться программировать Интернет-приложения на Java. Конечно эта информация будет не полной и
+            много информации вам придется искать самим, но небольшую тропинку через цикл создания такого рода
+            программ мы пройдем.
+        </p>
+        <h3>Сетевые протоколы</h3>
+        <p class="plain">
+            Если вы уже знакомы с основными принципами работы Web-сервера, то возможно, что эта часть вам будет
+            не очень интересна. Но все-таки мне бы хотелось остановиться на некоторых моментах, которые я считаю
+            важными для понимания того, как писать Web-приложения на Java. В принципе кто-то может сказать - да
+            и это в общем-то не особо важно, но тем не менее хотелось бы упомянуть. В конце концов это же моя
+            статья, а не ваша :)<br/>
+            Итак, первое с чего мы начнем - это протоколы TCP/IP и HTTP. Для глубокого понимания TCP/IP вам надо
+            прочитать немало книг. Но мне будет достаточно, если вы будете это воспринимать не так глубоко, а
+            именно понимать две основные вещи:
+            <ol>
+                <li>IP адрес</li>
+                <li>порт</li>
+            </ol>
+            <span class="recommend">Рекомендуем: </span>существует очень неплохой ресурс, на котором Вы можете
+            найти немало статей по TCP/IP - <a href="http://www.citforum.ru/internet/tifamily/">Семейство
+            протоколов TCP/IP</a>. Также очень неплохая статья для тех, кто не знает ничего о протоколе -
+            <a href="http://www.codenet.ru/webmast/tcpip.php">Руководство по TCP/IP для начинающих</a>
+        </p>
+        <p class="plain">
+            Если расматривать эти понятия очень коротко, то IP адрес - это число, которое говорит о том, какой
+            адрес в сети у вашей машины. На сегодня наиболее распространненым адресом является 4-х байтное число
+            - протокол версии 4 (v4). Для удобства его записывают в виде четырех чисел через точку.
+            Например: 96.34.23.11<br/>
+            Т.к. машин в сети становится все больше, то сейчас уже вводится протокол версии 6 (v6). Для него
+            на адрес отводится гораздо больше чисел и превысить это предел уже практически невозможно.
+            Когда-то давно никто не думал, что машин будет столько и поэтому казалось, что 4 байта - это вполне
+            достаточно. Ошиблись.<br/>
+            <span class="code-text">IP (Internet Protocol)</span> - это специальный протокол, который описывает
+            как пакеты передаются от одной машины в сети к другой. Причем отметим, что передача пакетов в данном
+            протоколе не гарантируется. Могут доставить, а могут и не доставить.<br/>
+            Гарантированной доставкой занимается протокол <span class="code-text">TCP</span>. Если сравнить
+            <span class="code-text">IP</span> и <span class="code-text">TCP</span> с почтовой службой, то
+            <span class="code-text">IP</span> - это обычная почта, а <span class="code-text">TCP</span> - это
+            заказные письма с уведомлением о вручении, которые доставят обязательно и вы об этом узнаете. Кроме
+            того, что <span class="code-text">TCP</span> дает гарантии доставки, этот протокол также занимается
+            тем, что доставляет пакет определенному приложению. Вы же можете запустить несколько приложений для
+            работы с сетью - как они будут понимать, кому какой пакет пришел ? Делается это с помощью
+            дополнительного расширения - порта. Порт - это число от 0 до 2^16. Чаще всего на компьютере какие-то
+            порты уже заняты системными приложениями. Считается, что занимать порт ниже 1000 своим нестандартным
+            приложением - плохой тон. Для работы с Web наиболее популярным портом является порт 80. Хоть он и
+            меньше 1000, но Web все-таки очень важный момент и для него это можно.<br/>
+            Таким образом когда приложение хочет "выйти в сеть", оно запускается и просит у операционной системы
+            занять определенный порт. Если порт свободен - приложение получает его в свое пользование и все
+            пакеты, которые в будущем придут на данную машину на этот порт будут переданы именно этому приложению.
+        </p>
+        <p class="plain">
+            Что еще важно отметить в TCP - это его направленность на соединение. Т.е. пытаясь связаться с другим
+            компьютером в сети (а точнее с приложением находящимся на другом компьютере) TCP сначала убедится,
+            что приложение отвечает и после этого сообщит, что соединение установлено и можно посылать пакеты. В
+            какой-то степени TCP это даже не заказная почта, а телефонный звонок. Раз трубку не подняли - значит
+            ничего посылать нельзя. Если подняли - значит все в порядке, можно говорить, обмениваться информацией.
+            Т.е. TCP использует для соединения IP адрес машины и порт, который используется определенным приложением
+            на данном компьютере.
+        </p>
+        <p class="plain">
+            Таким образом легко сделать вывод - Web-сервер является специальной программой, которая запускается на
+            компьютере и занимает определенный порт. Как уже упоминалось выше наиболее популярный порт - 80.
+        </p>
+        <h3>HTTP - кто это ?</h3>
+        <p class="plain">
+            И теперь несколько слов о <span class="code-text">HTTP</span>. HTTP - это
+            <span class="code-text">Hyper Text Transfer Protocol</span> - протокол передачи гипертекста. По большому
+            счету передается не какой-то загадочный гипертекст, а самый обычный текст, но раз уж назвали так,
+            значит так тому и быть. Гипертекстом он становиться тогда, когда его пказвает броузер. Именно броузер
+            в соответсвтии с тэгами (мы о них поговорим чуть позже) форматирует текст, делает ссылки (именно
+            это делает текст гипертекстом), показывает рисунки и т.д.<br/>
+            Когда приложение создает TCP/IP соединение с другим приложением (на другом компьютере или на вашем же),
+            то это можно представить себе как некая труба, по которой теперь в обе стороны могут передаваться
+            байты.<br/>
+            HTTP как раз и описывает какие байты (символы) и в каком порядке надо передавать, чтобы клиента и
+            сервер понимали друг друга. HTTP возможно один из самых простых протоколов. На сегодняшний день
+            существует две версии протокола HTTP - 1.0 и 1.1. Наиболее распространеннымим командами являются
+            <span class="code-text">GET</span> и <span class="code-text">POST</span>. Формат запроса выглядит
+            следующим образом:
+        </p>
+        <pre class="code-snippet">
+<strong>GET &lt;URL&gt; HTTP/1.0
+&lt;Имя_заголовка_1&gt;:&lt;значение_заголовка_1&gt;</strong>
+        </pre>
+        <p class="plain">
+            Для 1.1 запрос несколько сложнее
+        </p>
+        <pre class="code-snippet">
+<strong>GET &lt;URL&gt; HTTP/1.0
+Host: &lt;host&gt;
+&lt;Имя_заголовка_1&gt;:&lt;значение_заголовка_1&gt;</strong>
+        </pre>
+        <p class="plain">
+            URL включает в себя путь до ресурса и параметры, которые передаются после пути.
+            Ставим знак вопроса а потом идут пары <имя>=<значение> через знак &amp;.
+            Что-то вроде
+        </p>
+        <p class="plain">
+            <span class="code-text">GET /rfs/show?showName=direct&amp;secondLetter=123</span>
+        </p>
+        <p class="plain">
+            Как видите, здесь мы запросили ресурс <span class="code-text">/rfs/show</span> а также передали
+            параметры <span class="code-text">showName</span> и <span class="code-text">secondLetter</span>.
+        </p>
+        <p class="plain">
+            Команда POST используется в случае, если параметр в строке не передать. Например, Вы хотите
+            передать двоичный файл - в этом случае команда GET Вам вряд ли подойдет. Формат ее похоже на
+            GET, только параметры передаются более сложным образом - не в строке, а уже после заголовков.
+            Повторю еще раз - после того, как приложения установили между собой TCP соединение они передают
+            друг другу байты (символы). Как аналог TCP-соединение можно рассматривать как - Вы дозвонились
+            по нужному телефону и на том конце подняли трубку. Теперь Вы начинаете общаться - и вот это уже
+            HTTP. Т.е. как говорят "HTTP работает поверх TCP".<br/>
+            Как уже упоминалось выше клиент запрашивает у Web-сервера какой-либо ресурс по имени - URL. И
+            получив запрос сервер уже может решить, что же реально просит пользователь. Иногда это самый
+            простой статический файл, который надо передать. Но очень часто используя URL сервер создает
+            HTML-страницу  "на лету". (Это что-то вроде - по телефону спросить: "Продиктуйте мне данные
+            клиента А". В ответ могут продиктовать уже с готового листа, а могут послать запрос в 3-4 места
+            и выдать уже скомпанованную информацию). Созданием такой страницы может заниматься посторонняя
+            программа, которая выводит свои данные не на экран, а в область данных сервера (не совсем точно,
+            но здесь это не требуется) - эта технология до сих пор существует. Называется она
+            <span class="code-text">CGI - Common Gateway Interface</span>. Работает очень медленно, имеет
+            ужасные возможности по кэшированию. Но тем не менее пока существует.<br/>
+            Java предлагает более элегантное решение - сервлеты.
+        </p>
+        <h3>Первое слово о сервлетах</h3>
+        <p class="plain">
+            Что же такое сервлет ? В двух словах описать работу сервлета можно так: Web-сервер, который умеет
+            работать с сервлетами, запускает Java-машину, которая в свою очередь выполняет сервлет, а сервлет
+            отдает данные, которые он сформирует. Т.е. при приходе запроса от клиента сервер с помощью
+            специального конфигурационного файла может определить, какой сервлет выполнить, сервлет выполняется
+            и создает HTML-страницу, которую сервер отправляет клиенту.<br/>
+            А теперь еще раз и медленно :)<br/>
+            На сервер приходит запрос от клиента, запрос содержит внутри себя URL и параметры. Сервер имеет
+            специальный конфигурационный файл, который ему сообщает о том, какой сервлет надо выполнить в
+            случае прихода определенного URL. Сервлет выполняется (там вы можете использовать параметры)
+            и создает HTML-страницу, которая отсылается клиенту.<br/>
+            Сервер по сути является контейнером (теперь уже не визуальных компонентов), который загружает
+            сервлеты, выполняет их, вызывая определенные методы и получив от них результат, отправляет его
+            клиенту.<br/>
+            Таким образом сервлет - это Java-класс, который наследуется обычно от класса
+            &bull; <span class="code-text">HttpServlet</span> и переопределяет часть методов:<br/>
+            &bull; <span class="code-text">doGet</span> - если мы хотим, чтобы сервлет реагировал на GET запрос.<br/>
+            &bull; <span class="code-text">doPost</span> - если мы хотим, чтобы сервлет реагировал на POST запрос.<br/>
+            &bull; <span class="code-text">doPut, doDelete</span> - если мы хотим, чтобы сервлет реагировал на PUT и
+            DELETE запрос (есть и такие в HTTP). Эти методы реализуются крайне редко, т.к. сами команды тоже
+            очень редко встречаются.<br/>
+            &bull; <span class="code-text">init, destroy</span> - для управления ресурсами в момент создания сервлета
+            и в момент его уничтожения.
+        </p>
+        <p class="plain">
+            Если же необходимо перехватывать все команды, то проще переопределить метод
+            <span class="code-text">service</span>. Именно этот метод вызывается при приходе запроса от клиента.
+            В <span class="code-text">HttpServlet</span> происходит разбор запроса и в соответствии с указанной
+            командой вызывается метод <span class="code-text">doGet, doPost</span> и т.д.<br/>
+            Мы напишем очень простой сервлет, который выведет традиционное
+            <span class="code-text">Hello, world!</span>.<br/>
+            Но прежде нам необходимо запустить Web-сервер, который поддерживает сервлеты. Наиболее простым для
+            нас будет <span class="code-text">Tomcat</span>.
+        </p>
+        <h3>HTML и XML</h3>
+        <p class="plain">
+            Для понимания дальнейшего материала вам необходимо иметь некоторые знания о двух языках разметки -
+            <span class="code-text">HTML (Hyper Text Markup Language)</span> и
+            <span class="code-text">XML (eXtensible Markup Language)</span>.
+        </p>
+        <p class="plain">
+            <span class="recommend">Рекомендуем:</span><br/>
+            Мне очень понравилась статья по HTML - <a href="http://www.citforum.ru/internet/html3.2ex/index.shtml">
+            Изучение HTML 3.2 на примерах</a>.<br/>
+            По XML Вы можете посмотреть статьи на том же ресурсе:<br/>
+            <a href="http://www.citforum.ru/internet/xml/index.shtml">Язык XML - практическое введение</a><br/>
+            <a href="http://www.citforum.ru/internet/xml2/index.shtml">Язык XML - практическое введение. Часть 2</a>
+        </p>
+        <p class="plain">
+            В двух словах - оба языка используют систему "тэгов". Тэг - это набор символов, который заключен в
+            угловые скобки "&lt;", "&gt;". Для примера:
+        </p>
+        <p class="plain">
+            <span class="code-text">&lt;B&gt;Жирный текст&lt;/B&gt;</span>
+        </p>
+        <p class="plain">
+            Как видите я "открыл" тэг <span class="code-text">B</span> и после текста "закрыл" его. В принципе
+            ничего сложного. Важно, что будет делать броузер (или другое приложение) который встретит такую
+            последовательность. Для HTML это значит, что текст, который нажодится внутри должен быть выделен
+            "жирным" шрифтом.<br/>
+            Важно понять, что HTML - это просто способ "рассказать" броузеру как форматировать ваш текст.
+            Т.е. используя разные теги вы указываете в каком виде будет выводится ваша информация. Т.е.
+            HTML имеет конкретный набор тэгов, с помощью которых происходит форматирование текста - размеры
+            шрифта, выравнивание, цвет фона и т.д.<br/>
+            В отличии от HTML назначение XML - хранить структуру данных. Вы определяете именно структуру вашего
+            документа, что где и в каком порядке находится, но показывать такой документ броузер по идее не
+            может - ему надо подсказывать как интерпретировать тот или иной тег. Вы можете придумать ваши
+            собственные теги, которые очень важны и понятны именно для вас и вашего документа. К сожалению
+            (а может и к радости) эта тема требует отдельной книжки, поэтому здесь мы останавливаться не будем.<br/>
+            Очень прошу только одного - ознакомиться с общими понятиями HTML И XML для понимания дальнейшего.
+            Хватит простого понимания - тонкости будете изучать сами в дальнейшей самостоятельной работе.
+        </p>
+        <h3>Запускаем Web-сервер Tomcat</h3>
+        <p class="plain">
+            Загрузить Tomcat можно с сервера - <a href="http://tomcat.apache.org/">Apache Tomcat</a>.<br/>
+            Слева вы увидите список версий Tomcat – выбирайте подходящую (я тестировал свое приложение на версии 6).
+            <strong>ВНИМАНИЕ:</strong> Прежде чем загрузить файл посмотрите, какую версию JVM Вы используете.
+            Если 1.4, то Tomcat версии 6.x/5.5 вам не подойдет. Существует дополнительная библиотека, которая
+            решает проблему совместимости, но мой вам искренний совет - поставьте себе JVM 1.5 и вы избежите
+            проблем с установкой. В принципе вы не должны были легко пройти предыдущие части, т.к. там тоже
+            требуется версия Java 1.5 и выше.
+        </p>
+        <p class="plain">
+            По сути вы загрузите архив, который надо просто распаковать в какую-либо директорию. Я обычно
+            создаю отдельную папку <span class="code-text">JAVA</span> в которую устанавливаю все свои пакеты,
+            IDE, JDK и прочие штуки. Само собой каждый пакет имеет свою собственную директорию.<br/>
+            В будущем я буду использовать значение <span class="code-text">TOMCAT_HOME</span>, чтобы показать,
+            в какой директории внутри установленного сервера Tomcat вы должны что-то запускать, устанавливать
+            или менять.<br/>
+            Также <strong>ОЧЕНЬ ВАЖНО</strong> - вам надо установить переменную окружения
+            <span class="code-text">JAVA_HOME</span>. Она должна указывать на путь до корневой директории
+            установленного JDK.<br/>
+            Для Windows это делается так:<br/>
+            Пуск->Настройка->Панель управления->Система->Дополнительно->Переменные среды.<br/>
+            Для Unix вам просто необходимо из командной строки создать переменную
+            <span class="code-text">JAVA_HOME</span> или прописать ее в начальных настройках. (Думаю, что
+            для тех, кто пользуется Unix это не составит проблем).<br/>
+            Если мне не изменяет память, для ранних версий <span class="code-text">Tomcat</span> необходимо
+            было также сосздать переменную <span class="code-text">TOMCAT_HOME</span>, но теперь это не
+            обязательно. Так что можно не делать.<br/>
+            После того, как вы установили Tomcat давайте проверим его работоспособность. Для этого зайдите
+            в директорию <span class="code-text">&lt;TOMCAT_HOME&gt;\bin</span> и запустите файл
+            <span class="code-text">startup.bat</span>.
+            Если вы ничего не напутали, то должно запуститься DOS-окно, в которое выводится разная информация.
+            Посмотрите за тем, чтобы не было сообщений об ошибках - их сразу видно - обычно выдается полный
+            стек методов. Самое главное сообщение для вас должно появиться в самом конце (обычно надо
+            подождать 5-10 секунд - при условии, что Tomcat не содержит много приложений)
+        </p>
+        <p class="plain">
+            <span class="code-text">INFO: Server startup in 8828 ms</span>
+        </p>
+        <p class="plain">
+            Количество миллисекунд конечно может быть не таким. Если все прошло успешно запустите броузер и
+            наберите в нем
+        </p>
+        <p class="plain">
+            <span class="code-text">http://localhost:8080/</span>
+        </p>
+        <p class="plain">
+            8080 - это порт по умолчанию, который занимает Tomcat. Порт 80 он не трогает. Хотя если вам
+            необходимо использовать другой порт - зайдите в директорию &lt;TOMCAT_HOME&gt;\conf и окройте
+            файл <span class="code-text">server.xml</span>. Поищите в нем строки
+        </p>
+        <pre class="code-snippet">
+    <span class="xml-comment">&lt;!-- Define a non-SSL HTTP/1.1 Connector on port 8080 --&gt;</span>
+    <span class="xml-tag">&lt;Connector</span> <span class="xml-attribute">port</span>=<span class="xml-value">&quot;8080&quot;</span> <span class="xml-attribute">maxThreads</span>=<span class="xml-value">&quot;150&quot;</span> <span class="xml-attribute">minSpareThreads</span>=<span class="xml-value">&quot;25&quot;</span> <span class="xml-attribute">maxSpareThreads</span>=<span class="xml-value">&quot;75&quot;</span>
+        </pre>
+        <p class="plain">
+            Как видите, можно поменять порт 8080 на любой другой, который вам удобен. Не забудьте, что при
+            изменении файла вам необохдимо перезапустить Tomcat.<br/>
+            Итак, если вы набрали указанный URL, то перед вашим взором откроется главная страница сервера
+            Tomcat с симпатичным и (могу вас уверить) очень широко известным котом в левом верхнем углу.
+            (Хотя мне кажется, что это больше напоминает тигра - может так оно и есть ?)
+        </p>
+        <p class="plain">
+            <img src="images7/figure_7_1.png" alt=""/>
+        </p>
+        <p class="plain">
+            В правой верхней части будет успокаивающая надпись
+        </p>
+        <p class="plain" align="center" style="font-weight:bold">
+            If you're seeing this page via a web browser, it means you've setup Tomcat successfully. Congratulations!
+        </p>
+        <p class="plain">
+            И примите мои поздравления тоже - вы только что запустили свой личный Web-сервер.
+        </p>
+        <h3>Популярнейший сервлет - Hello, World</h3>
+        <p class="plain">
+            Как выясняется, просто написать сервлет мало. Его надо скомпилировать и после этого установить на
+            наш сервер. И надо установить так, чтобы сервер знал, как им пользоваться.<br/>
+            Все приложения, которые регистрируются в Tomcat обычно помещаются в директорию
+            <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps</span>. Хотя существует способ, позволяющий
+            размещать ваши прилоежния там, где вам удобно. Но мы не будем пока пользоваться этим вариантом -
+            если захотите, можете самостоятельно проработать это вопрос. Учтите, что другие Web-сервера с
+            возможностью работы с сервлетами могут использовать другие каталоги - будьте внимательны.<br/>
+            Давайте напишем самый просто сервлет и прокомментируем его код. Важно отметить, что мы поместили
+            наш сервлет (класс) в новый пакет - <span class="code-text">students.web</span>. Так что вам надо
+            будет создать необходимые каталоги.
+        </p>
+        <pre class="code-snippet">
+<span cl<span class="keyword-directive">package</span> students.web;
+
+<span class="keyword-directive">import</span> java.io.IOException;
+<span class="keyword-directive">import</span> java.io.PrintWriter;
+
+<span class="keyword-directive">import</span> javax.servlet.ServletException;
+<span class="keyword-directive">import</span> javax.servlet.http.HttpServlet;
+<span class="keyword-directive">import</span> javax.servlet.http.HttpServletRequest;
+<span class="keyword-directive">import</span> javax.servlet.http.HttpServletResponse;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> HelloWorldServlet <span class="keyword-directive">extends</span> HttpServlet {
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> doGet(HttpServletRequest req, HttpServletResponse resp) <span class="keyword-directive">throws</span> ServletException, IOException {
+        resp.setContentType(<span class="character">&quot;</span><span class="character">text/html;charset=utf-8</span><span class="character">&quot;</span>);
+
+        PrintWriter pw = resp.getWriter();
+        pw.println(<span class="character">&quot;</span><span class="character">&lt;H1&gt;Hello, world! или Привет мир&lt;/H1&gt;</span><span class="character">&quot;</span>);
+
+    }
+}
+        </pre>
+        <p class="plain">
+            Как видите мы унаследовались от библиотечного класса
+            <span class="code-text">HttpServlet</span> и переопределили один метод -
+            <span class="code-text">doGet</span>.<br/>
+            Теперь остановимся на нескольких важных моментах:
+            <ol>
+                <li>Вызов <span class="code-text">setContentType</span>. Этот метод важен для тех, кто использует
+                    русский язык - прежде чем показывать страницу с русским тесктом броузер должен быть проинформирован,
+                    что именно русский текст мы собираемся выводить на экран и броузер должен использовать кодировку.
+                которая нам подходит.</li>
+                <li>Получение <span class="code-text">Writer</span>-класса для вывода данных. Здесь очень важно
+                    отметить следующий момент - вывод может осуществляться как посимвольно, так и побайтно. Для
+                    вывода текста используется посимвольный вывод, для вывода двоичных файлов используется побайтный.
+                    Для более полного понимания лучше посмотреть информацию как устроены потоки ввода/вывода для
+                Java.</li>
+            </ol>
+            Для Java разница между символом и байтом очень важна - т.к. Java расчитана на будущее, то для символа
+            в ней используется два байта, а не один как это было в ранних языка С или Паскаль. Именно для разделения
+            типов потоков ввода/вывода используются разные классы.
+            <span class="code-text">Reader/Writer</span> - чтение/запись символов.
+            <span class="code-text">InputStream/OutputStream</span> - чтение/запись байтов.<br/>
+            В нашем случае мы выводим текст и поэтому получаем <span class="code-text">Writer</span>. Этот класс
+            позволяет нам писать в него самый обычный HTML текст. Что мы и делаем.
+            Для сборки сервлета вам не хватит стандартной библиотеки JDK - необходимо подключить дополнительные
+            библиотеки. И такая библиотека на наше счастье есть в поставке Tomcat - посмотрите ее в директории
+            <span class="code-text">&lt;TOMCAT_HOME&gt;\common\lib</span>. Это
+            <span class="code-text">servlet-api.jar</span>. Давайте подключим ее к строке сборки. Я просто
+            скопировал нужный JAR в каталог с проектом. Наша строка для сборки будет выглядеть следующим образом:
+        </p>
+        <p class="plain">
+            <span class="code-text">javac -cp .;servlet-api.jar students\web\*.java</span><br/>
+            Для примера надо<br/>
+            <span class="code-text">javac -encoding UTF-8 -cp .;servlet-api.jar students\web\*.java</span><br/>
+            Обратите внимание - в архиве приведено две версии. Уберите ненужные комментарии и поставьте там,
+            где надо.
+        </p>
+        <p class="plain">
+            Итак наш сервлет собран и готов к установке. Для установки нам необходимо проделать еще ряд действий.
+            <ol>
+                <li>Создадим директорию studentsApp в каталоге
+                <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps</span></li>
+                <li>Внутри созданной дирекотории создадим еще одну директорию -
+                <span class="code-text">WEB-INF</span></li>
+                <li>Внутри этой директории создайте директорию
+                <span class="code-text">classes</span>.</li>
+                <li>Поместите туда наш тестовый класс с учетом пакетов. Т.е. полный путь до нашего класса
+                    должен быть таким:<br/>
+                    <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps\studentsApp\WEB-INF\classes\students\web\HelloWorldServlet.class</span>
+                </li>
+                <li>Теперь необходимо определить файл <span class="code-text">web.xml</span>, который "расскажет"
+                    Tomcat о том, как пользоваться нашим сервлетом. Некоторые IDE предоставляют специальные редакторы
+                    для web.xml - может они вам потом будут помогать. Но для начала мы можем написать этот файл
+                самостоятельно.</li>
+            </ol>
+            Выглядит он достаточно просто:
+        </p>
+        <pre class="code-snippet">
+<span class="ST0">&lt;!DOCTYPE web-app PUBLIC </span><span class="xml-value">&#39;-//Sun Microsystems, Inc.//DTD</span>
+<span class="xml-value">  Web Application 2.3//EN&#39;</span> <span class="xml-value">&#39;http://java.sun.com/dtd/web-app_2_3.dtd&#39;</span><span class="ST0">&gt;</span>
+
+<span class="xml-tag">&lt;web-app</span><span class="xml-tag">&gt;</span>
+
+  <span class="xml-tag">&lt;servlet</span><span class="xml-tag">&gt;</span>
+    <span class="xml-tag">&lt;servlet-name</span><span class="xml-tag">&gt;</span>hello<span class="xml-tag">&lt;/servlet-name</span><span class="xml-tag">&gt;</span>
+    <span class="xml-tag">&lt;servlet-class</span><span class="xml-tag">&gt;</span>students.web.HelloWorldServlet<span class="xml-tag">&lt;/servlet-class</span><span class="xml-tag">&gt;</span>
+  <span class="xml-tag">&lt;/servlet</span><span class="xml-tag">&gt;</span>
+
+  <span class="xml-tag">&lt;servlet-mapping</span><span class="xml-tag">&gt;</span>
+    <span class="xml-tag">&lt;servlet-name</span><span class="xml-tag">&gt;</span>hello<span class="xml-tag">&lt;/servlet-name</span><span class="xml-tag">&gt;</span>
+    <span class="xml-tag">&lt;url-pattern</span><span class="xml-tag">&gt;</span>/hello<span class="xml-tag">&lt;/url-pattern</span><span class="xml-tag">&gt;</span>
+  <span class="xml-tag">&lt;/servlet-mapping</span><span class="xml-tag">&gt;</span>
+
+<span class="xml-tag">&lt;/web-app</span><span class="xml-tag">&gt;</span>
+        </pre>
+        <p class="plain">
+            Стоит выделить несколько моментов:
+            <ol>
+                <li>Тэг <span class="code-text">web-app</span> является корневым тэгом. Он может содержать
+                    дополнительные аттрибуты, но нам они в данный момент не нужны. Все остальыне тэги находятся
+                внутри него.</li>
+                <li>Тэг <span class="code-text">servlet</span> содержит внутри себя тэги, которые описывают
+                    сервлет. Тэг <span class="code-text">servlet-name</span> содержит внутри себя какое-то имя -
+                    вы можете использовать то, что вам больше нравится. Тэг
+                    <span class="code-text">servlet-class</span> должен содержать реальное имя класса. В нашем
+                    случае мы поместили наш класс в пакет <span class="code-text">students.web</span> и полное
+                имя класса будет <span class="code-text">students.web.HelloWorldServlet</span>.</li>
+                <li>Тэг <span class="code-text">servlet-mapping</span>. Здесь мы определяем URL, который
+                    пользователь будет запрашивать для получения данных от нашего сервлета. Точнее будет
+                сформулировать так: мы определяем какой сервлет будет обрабатывать введенный URL.</li>
+            </ol>
+            Тэг <span class="code-text">servlet-name</span> содержит имя, которое мы определили в п.2
+            (там тоже есть тэг <span class="code-text">servlet-name</span>), а тэг
+            <span class="code-text">url-pattern</span> включает в себя URL.<br/>
+            Файл <span class="code-text">web.xml</span> должен располагаться в каталоге
+            <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps\studentsApp\WEB-INF\</span>.
+            Т.е полный путь до файла выглядит так:
+        </p>
+        <p class="plain">
+            <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps\studentsApp\WEB-INF\web.xml</span>
+        </p>
+        <p class="plain">
+            Теперь давайте запустим Tomcat и попробуем получить ответ от нашего сервлета. Итак, запускаем
+            Tomcat и в строке броузера набираем:
+        </p>
+        <p class="plain">
+            <span class="code-text">http://localhost:8080/studentsApp/hello</span>
+        </p>
+        <p class="plain">
+            Стоит отметить, что т.к. мы разместили наш сервлет в отдельной директории
+            <span class="code-text">studentsApp</span>, то URL должен включать эту директорию. Если вы не
+            ошиблись при наборе данных, то по идее вы должны увидеть текст, который мы создали в нашем
+            сервлете. Принимайте поздравления.
+        </p>
+        <h3>Использование базы данных</h3>
+        <p class="plain">
+            Для того, чтобы начать использовать нашу базу данных все, что нам надо - создать еще один
+            каталог и скопировать туда наш JAR для работы с базой данных -
+            <span class="code-text">mysql-connector-java-3.1.13-bin.jar</span>. Каталог называется
+            <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps\studetnsApp\WEB-INF\lib</span>
+        </p>
+        <p class="plain">
+            Соответственно полный путь до файла будет:
+            <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps\studetnsApp\WEB-INF\lib\mysql-connector-java-3.1.13-bin.jar</span>
+        </p>
+        <p class="plain">
+            Ну и конечно же изменим наш сервлет для того, чтобы он получал данные из базы данных. Новый код для
+            нашего сервлета станет несколько сложнее.
+        </p>
+        <pre class="code-snippet">
+<span class="keyword-directive">package</span> students.web;
+
+<span class="keyword-directive">import</span> java.io.IOException;
+<span class="keyword-directive">import</span> java.io.PrintWriter;
+<span class="keyword-directive">import</span> java.util.List;
+
+<span class="keyword-directive">import</span> javax.servlet.ServletException;
+<span class="keyword-directive">import</span> javax.servlet.http.HttpServlet;
+<span class="keyword-directive">import</span> javax.servlet.http.HttpServletRequest;
+<span class="keyword-directive">import</span> javax.servlet.http.HttpServletResponse;
+
+<span class="keyword-directive">import</span> students.logic.Group;
+<span class="keyword-directive">import</span> students.logic.ManagementSystem;
+
+<span class="keyword-directive">public</span> <span class="keyword-directive">class</span> HelloWorldServlet <span class="keyword-directive">extends</span> HttpServlet {
+
+    <span class="keyword-directive">public</span> <span class="keyword-directive">void</span> doGet(HttpServletRequest req, HttpServletResponse resp) <span class="keyword-directive">throws</span> ServletException, IOException {
+        resp.setContentType(<span class="character">&quot;</span><span class="character">text/html;charset=utf-8</span><span class="character">&quot;</span>);
+
+        PrintWriter pw = resp.getWriter();
+        pw.println(<span class="character">&quot;</span><span class="character">&lt;B&gt;Список групп&lt;/B&gt;</span><span class="character">&quot;</span>);
+        pw.println(<span class="character">&quot;</span><span class="character">&lt;table border=1&gt;</span><span class="character">&quot;</span>);
+        <span class="keyword-directive">try</span> {
+            List&lt;Group&gt; l = ManagementSystem.getInstance().getGroups();
+            <span class="keyword-directive">for</span> (Group gr : l) {
+                pw.println(<span class="character">&quot;</span><span class="character">&lt;tr&gt;</span><span class="character">&quot;</span>);
+                pw.println(<span class="character">&quot;</span><span class="character">&lt;td&gt;</span><span class="character">&quot;</span> + gr.getGroupId() + <span class="character">&quot;</span><span class="character">&lt;/td&gt;</span><span class="character">&quot;</span>);
+                pw.println(<span class="character">&quot;</span><span class="character">&lt;td&gt;</span><span class="character">&quot;</span> + gr.getNameGroup() + <span class="character">&quot;</span><span class="character">&lt;/td&gt;</span><span class="character">&quot;</span>);
+                pw.println(<span class="character">&quot;</span><span class="character">&lt;td&gt;</span><span class="character">&quot;</span> + gr.getCurator() + <span class="character">&quot;</span><span class="character">&lt;/td&gt;</span><span class="character">&quot;</span>);
+                pw.println(<span class="character">&quot;</span><span class="character">&lt;td&gt;</span><span class="character">&quot;</span> + gr.getSpeciality() + <span class="character">&quot;</span><span class="character">&lt;/td&gt;</span><span class="character">&quot;</span>);
+                pw.println(<span class="character">&quot;</span><span class="character">&lt;/tr&gt;</span><span class="character">&quot;</span>);
+            }
+        } <span class="keyword-directive">catch</span> (Exception e) {
+            <span class="keyword-directive">throw</span> <span class="keyword-directive">new</span> ServletException(e);
+        }
+        pw.println(<span class="character">&quot;</span><span class="character">&lt;/table&gt;</span><span class="character">&quot;</span>);
+    }
+}
+        </pre>
+        <p class="plain">
+            Наша строка для сборки будет выглядеть следующим образом:<br/>
+            <span class="code-text">javac -cp .;servlet-api.jar students\web\*.java students\logic\*.java</span><br/>
+            Для примера надо<br/>
+            <span class="code-text">javac -encoding UTF-8 -cp .;servlet-api.jar students\web\*.java students\logic\*.java</span>
+        </p>
+        <p class="plain">
+            Теперь мы должны скопировать не только файл <span class="code-text">HelloWorldServlet.class</span>,
+            но и все class-файлы из каталога <span class="code-text">students.logic</span>. Таким образом
+            структура каталога <span class="code-text">&lt;TOMCAT_HOME&gt;\webapps\studetnsApp\WEB-INF\</span> выглядит теперь так:
+        </p>
+        <pre class="code-snippet">
+<strong>WEB-INF
+   classes
+      students
+         logic
+            -Group.class
+            -ManagementSystem.class
+            -Student.class
+         web
+            -HelloWorldServlet.class
+   lib
+      -mysql-connector-java-3.1.13-bin.jar
+   -web.xml</strong>
+        </pre>
+        <p class="plain">
+            Теперь мы можем запустить наш Tomcat и попробовать исполнить обновленную версию сервлета.
+            Я советую вам поэкспериментировать с нашим сервлетом - попробуйте вывести список студентов,
+            студентов для определенной группы и т.п. А впереди нас ждут Java Server Pages -
+            <a href="part8.html">Часть 8 - JSP: расширяем возможности</a>
+        </p>
+        <p class="plain">
+            Архив с исходными кодами: <a href="Sources/part07.zip">Исходный код</a>
+        </p>
+        <a href="../index.html?students/intro.html" target="_top">Содержание</a>
+
+    </body>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html> 
+------------oXMMJU328iwy27ljS7nFjW
+Content-Disposition: inline; filename=figure_7_1.png
+Content-Type: image/png; name=figure_7_1.png
+Content-Location: http://java-course.ru/students/images7/figure_7_1.png
+Content-Transfer-Encoding: Base64
+
+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
+p/y40/JBAAAAAElFTkSuQmCC
+
+------------oXMMJU328iwy27ljS7nFjW
+Content-Disposition: inline; filename=javacourse.htm
+Content-Type: text/html; charset=UTF-8; name=javacourse.htm
+Content-Location: http://java-course.ru/css/javacourse.css
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title></title>
+<meta name="Description" content="" />
+<meta name="Keywords" content="" />
+
+	
+		
+	<link rel='stylesheet' href='http://java-course.ru/wp-content/plugins/answer-my-question/css/answer_my_question_site_modal.css' type='text/css' />
+<link rel='stylesheet' href='http://java-course.ru/wp-content/plugins/answer-my-question/css/answer_my_question_full_list.css' type='text/css' />
+<link rel="alternate" type="application/rss+xml" title="Java Course &raquo; Feed" href="http://java-course.ru/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Java Course &raquo; Comments Feed" href="http://java-course.ru/comments/feed/" />
+<link rel='stylesheet' id='crayon_style-css'  href='http://java-course.ru/wp-content/plugins/crayon-syntax-highlighter/css/crayon_style.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='crayon_global_style-css'  href='http://java-course.ru/wp-content/plugins/crayon-syntax-highlighter/css/global_style.css?ver=2.1.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://maps.google.com/maps/api/js?sensor=false&#038;ver=3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"2.1.3","is_admin":"0","ajaxurl":"http:\/\/java-course.ru\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://java-course.ru/wp-content/plugins/crayon-syntax-highlighter/js/util.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://java-course.ru/wp-content/plugins/crayon-syntax-highlighter/js/crayon.js?ver=2.1.3'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://java-course.ru/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://java-course.ru/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1" />
+<link rel="shortcut icon" href="http://java-course.ru/wp-content/themes/jellybean/images/favicon.png" type="image/x-icon" />
+			
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/index.css" type="text/css" media="screen, projection" />
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/wide.css" type="text/css" media="screen and (min-width:1024px)" />
+				<!--[if lt IE 9]>
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/wide.css" type="text/css" media="screen" />
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/ie.css" type="text/css" media="screen" />
+				<![endif]-->
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/mobile.css" type="text/css" media="screen and (min-width:240px) and (max-width:639px)" />
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/tablet.css" type="text/css" media="screen and (min-width:640px) and (max-width:1023px)" />
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/style.css" type="text/css" media="screen, projection" />
+				<link rel="stylesheet" href="http://java-course.ru/wp-content/themes/jellybean/css/shortcode.css" type="text/css" media="screen, projection" />
+				<script type="text/javascript" src="http://java-course.ru/wp-content/themes/jellybean/js/superfish.js?ver=3.3.1"></script>
+				<script type="text/javascript" src="http://java-course.ru/wp-content/themes/jellybean/js/smthemes.js?ver=1430"></script>
+				<script src="http://java-course.ru/wp-content/themes/jellybean/js/jquery.cycle.all.js" type="text/javascript"></script>
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	
+	<style type="text/css">
+			</style>
+		<script type="text/javascript">
+		jQuery(document).ready(function() {
+
+						jQuery(document).ready(function() {
+	jQuery('.fp-slides').cycle({
+		fx: 'fade',
+		timeout: 3000,
+		delay: 0,
+		speed: 1000,
+		next: '.fp-next',
+		prev: '.fp-prev',
+		pager: '.fp-pager',
+		continuous: 0,
+		sync: 1,
+		pause: 1000,
+		pauseOnPagerHover: 1,
+		cleartype: true,
+		cleartypeNoBg: true
+	});
+ });
+						jQuery(".menus .children").addClass('sub-menu');
+			
+							if ( jQuery(document).width() > 1023 ) jQuery(function(){ 
+	jQuery('ul.menus').superfish({ 
+	animation: {width:'show'},					
+								autoArrows:  false,
+                dropShadows: false, 
+                speed: 200,
+                delay: 400                });
+            });
+						jQuery('textarea#comment').each(function(){
+				jQuery(this).attr('name','322a2');
+			});
+			jQuery('.feedback input').each(function(){
+				jQuery(this).attr('name','322a2['+jQuery(this).attr('name')+']');
+			});
+			jQuery('.feedback textarea').each(function(){
+				jQuery(this).attr('name','322a2['+jQuery(this).attr('name')+']');
+			});
+		});
+	</script>
+</head>
+<body class="error404 no-slider content-n" layout='1'>
+<div id='scrollUp'><img src='http://java-course.ru/wp-content/themes/jellybean/images/smt/arrow-up.png' alt='Up' title='Scroll window up' /></div>
+<div id='all'>
+<div id='header'>
+	<div class='container clearfix'>
+		
+		
+		<div id='secondarymenu-container'>
+			<div id="logo">
+								<a href='http://java-course.ru/'><img src='http://java-course.ru/wp-content/uploads/2013/03/logo.png' class='logo' alt='Java Course' title="Java Course" /></a>
+						
+						</div>
+			
+			<div class="menusearch" title="" style="position: relative;">
+				 
+<div class="searchform" title="">
+    <form method="get" ifaviconffd="searchform" action="http://java-course.ru/"> 
+		<input type='submit' value='' class='searchbtn' />
+        <input type="text" value="Search" class='searchtxt' 
+            name="s" id="s"  onblur="if (this.value == '')  {this.value = 'Search';}"  
+            onfocus="if (this.value == 'Search') {this.value = '';}" 
+        />
+		<div style='clear:both'></div>
+    </form>
+</div><!-- #search -->			</div>
+			
+			<div id='menu-box'>
+			<!--<div id='secondarymenu'>
+				<div class='menu-topmenu-container'><ul class="menus">
+				<li class="page_item page-item-4"><a href="http://java-course.ru/begin/">РќР°С‡Р°Р»Рѕ Java</a></li>
+<li class="page_item page-item-6"><a href="http://java-course.ru/student/">РџСЂРѕРµРєС‚ &#8220;РћС‚РґРµР» РєР°РґСЂРѕРІ&#8221;</a>
+<ul class='children'><div class='transparent'></div><div class='inner'>
+	<li class="page_item page-item-75"><a href="http://java-course.ru/student/book1/">РљРЅРёРіР° 1</a></li>
+	<li class="page_item page-item-77"><a href="http://java-course.ru/student/book2/">РљРЅРёРіР° 2</a></li>
+</div></ul>
+</li>
+<li class="page_item page-item-8"><a href="http://java-course.ru/courses/">РљСѓСЂСЃС‹</a>
+<ul class='children'><div class='transparent'></div><div class='inner'>
+	<li class="page_item page-item-39"><a href="http://java-course.ru/courses/javase/">РќР°С‡Р°Р»СЊРЅС‹Р№ РєСѓСЂСЃ Java</a></li>
+	<li class="page_item page-item-41"><a href="http://java-course.ru/courses/javaee/">РџСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅС‹Р№ РєСѓСЂСЃ Java</a></li>
+	<li class="page_item page-item-43"><a href="http://java-course.ru/courses/android/">Р Р°Р·СЂР°Р±РѕС‚РєР° РґР»СЏ Android</a></li>
+</div></ul>
+</li>
+<li class="page_item page-item-11"><a href="http://java-course.ru/articles/">РЎС‚Р°С‚СЊРё</a></li>
+<li class="page_item page-item-13"><a href="http://java-course.ru/faq/">Р’РѕРїСЂРѕСЃС‹/РћС‚РІРµС‚С‹</a></li>
+<li class="page_item page-item-15"><a href="http://java-course.ru/contacts/">РљРѕРЅС‚Р°РєС‚С‹</a></li>
+<li class="page_item page-item-317"><a href="http://java-course.ru/team/">РљРѕРјР°РЅРґР°</a></li>
+			</ul></div>
+					</div>-->
+			</div>
+			
+		</div>
+		
+		
+		<select class='mobile-menu' id='mobile-sec-menu'><option value='#'>Go to ...</option>		<script>
+			jQuery(document).ready(function(){
+				jQuery('.menu-topmenu-container li').each(function() {
+					jQuery('<option />', {
+					'value':jQuery(this).find('a').attr('href'),
+					'text':jQuery(this).find('a').html()
+					}).appendTo(jQuery('#mobile-sec-menu'));
+				});
+			});
+		</script>
+		</select>		<select class='mobile-menu' id='mobile-main-menu'><option value='#'>Go to ...</option>		<script>
+			jQuery(document).ready(function(){
+				jQuery('.menu-primary li').each(function() {
+					jQuery('<option />', {
+					'value':jQuery(this).find('a').attr('href'),
+					'text':jQuery(this).find('a').html()
+					}).appendTo(jQuery('#mobile-main-menu'));
+				});
+			});
+		</script>
+		</select>		
+		<div id='mainmenu-container'>
+			<div id='mainmenu'>
+				<div class='menu-topmenu-container'><ul class="menus">
+				<li class="page_item page-item-4"><a href="http://java-course.ru/begin/">РќР°С‡Р°Р»Рѕ Java</a></li>
+<li class="page_item page-item-6"><a href="http://java-course.ru/student/">РџСЂРѕРµРєС‚ &#8220;РћС‚РґРµР» РєР°РґСЂРѕРІ&#8221;</a>
+<ul class='children'><div class='transparent'></div><div class='inner'>
+	<li class="page_item page-item-75"><a href="http://java-course.ru/student/book1/">РљРЅРёРіР° 1</a></li>
+	<li class="page_item page-item-77"><a href="http://java-course.ru/student/book2/">РљРЅРёРіР° 2</a></li>
+</div></ul>
+</li>
+<li class="page_item page-item-8"><a href="http://java-course.ru/courses/">РљСѓСЂСЃС‹</a>
+<ul class='children'><div class='transparent'></div><div class='inner'>
+	<li class="page_item page-item-39"><a href="http://java-course.ru/courses/javase/">РќР°С‡Р°Р»СЊРЅС‹Р№ РєСѓСЂСЃ Java</a></li>
+	<li class="page_item page-item-41"><a href="http://java-course.ru/courses/javaee/">РџСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅС‹Р№ РєСѓСЂСЃ Java</a></li>
+	<li class="page_item page-item-43"><a href="http://java-course.ru/courses/android/">Р Р°Р·СЂР°Р±РѕС‚РєР° РґР»СЏ Android</a></li>
+</div></ul>
+</li>
+<li class="page_item page-item-11"><a href="http://java-course.ru/articles/">РЎС‚Р°С‚СЊРё</a></li>
+<li class="page_item page-item-13"><a href="http://java-course.ru/faq/">Р’РѕРїСЂРѕСЃС‹/РћС‚РІРµС‚С‹</a></li>
+<li class="page_item page-item-15"><a href="http://java-course.ru/contacts/">РљРѕРЅС‚Р°РєС‚С‹</a></li>
+<li class="page_item page-item-317"><a href="http://java-course.ru/team/">РљРѕРјР°РЅРґР°</a></li>
+			</ul></div>
+					</div>
+		</div>
+					
+		
+		
+		
+	</div>
+</div>
+
+<div id='content-top' class='container'></div>
+<div id='content'>
+	<div class='container clearfix'>
+			 <div id="main_content"> 			<h1 class="page-title">Error 404 | Nothing found!</h1>
+			Sorry, but you are looking for something that is not here. </div><!-- #content -->  
+    </div>
+</div>
+			<div id='smthemes_share'>
+			<ul class='inner'>
+				<li><iframe src="//www.facebook.com/plugins/like.php?href=http://java-course.ru/css/javacourse.css&send=false&layout=box_count&width=50&show_faces=false&action=like&colorscheme=light&font&height=65&locale=en_US" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:65px;" allowTransparency="true"></iframe></li><li><a href="https://twitter.com/share" class="twitter-share-button" data-count="vertical" data-lang="en">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li><li><g:plusone size="tall"></g:plusone>
+			<script type="text/javascript">
+			  (function() {
+				var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+				po.src = "https://apis.google.com/js/plusone.js";
+				var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+			  })();
+			</script></li><li><!-- Put this script tag to the <head> of your page -->
+<script type="text/javascript" src="http://vk.com/js/api/share.js?11" charset="windows-1251"></script>
+
+<!-- Put this script tag to the place, where the Share button will be -->
+<script type="text/javascript"><!--
+document.write(VK.Share.button(false,{type: 'custom', text: '<img src="http://vk.com/images/vk32.png" />'}));
+--></script></li>			</ul>
+			</div>
+			<div id='content-bottom' class='container'></div>
+<div id='footer'>
+	
+		<div class='container clearfix'>
+				<div class='footer_txt'>
+			Copyright &copy; 2013  <a href="http://java-course.ru">Java Course</a> 
+								<div class='smthemes'>Designed by <a href='http://smthemes.com/' target='_blank'>Blog templates</a>, thanks to: <a href='http://wpdis.co/' target='_blank'>Free WordPress themes for photographers</a>, <a href='http://lizardthemes.com' target='_blank'>LizardThemes.com</a> and <a href='http://fthe.me/wordpress-themes/themes-types/real-estate/' target='_blank'>Free WordPress real estate themes</a></div>
+		</div>
+</div>
+		
+		
+<div id="answer-my-question-modal-bg"></div>
+<div id="answer-my-question-modal">
+	<div class="inner">
+		<h1>Answer My Question</h1>
+		<span class="close">CLOSE</span>
+		<h2 id="message-sent">Your question has been sent!</h2>
+		<img id="sending-loader" src="http://java-course.ru/wp-content/plugins/answer-my-question/images/ajax-loader.gif" alt="" />
+		<div class="form-contents">
+		<p>Please fill out the form below.</p>
+		<form id="question-form" action="" method="post">
+	<table>
+		<tr>
+			<td class="field">Name  <span class="required">*</span></td>
+			<td><input type="text" name="name" /></td>
+		</tr>
+		<tr>
+			<td class="field">Email  <span class="required">*</span></td>
+			<td><input type="text" name="email" /></td>
+		</tr>
+		<tr>
+			<td class="field">URL
+			<small>(include http://)</small></td>
+			<td><input type="text" name="url" /></td>
+		</tr>
+		<tr>
+			<td class="field">Subject <span class="required">*</span></td>
+			<td><input type="text" name="subject" /></td>
+		</tr>
+		<tr>
+			<td class="field">Question <span class="required">*</span></td>
+			<td><textarea name="question"></textarea><br>
+			<label for="notify">Notify Me On Answer:</label> <input type="checkbox" name="notify" id="notify" value="1" />
+			</td>
+		</tr>
+	</table>
+	
+	<span class="legend"><span class="required">*</span> Required Field</span>
+	<input type="hidden" name="post_location" id="post_location" value="http://java-course.ru/wp-content/plugins/answer-my-question/record_question.php" />
+	<button class="clean-gray" id="send">Send</button>
+	</form>
+	</div>
+	</div>
+</div><!-- Yandex.Metrika informer -->
+<a href="http://metrika.yandex.ru/stat/?id=20486557&amp;from=informer"
+target="_blank" rel="nofollow"><img src="//bs.yandex.ru/informer/20486557/3_1_FFFFFFFF_EFEFEFFF_0_pageviews"
+style="width:88px; height:31px; border:0;" alt="РЇРЅРґРµРєСЃ.РњРµС‚СЂРёРєР°" title="РЇРЅРґРµРєСЃ.РњРµС‚СЂРёРєР°: РґР°РЅРЅС‹Рµ Р·Р° СЃРµРіРѕРґРЅСЏ (РїСЂРѕСЃРјРѕС‚СЂС‹, РІРёР·РёС‚С‹ Рё СѓРЅРёРєР°Р»СЊРЅС‹Рµ РїРѕСЃРµС‚РёС‚РµР»Рё)" onclick="try{Ya.Metrika.informer({i:this,id:20486557,lang:'ru'});return false}catch(e){}"/></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter20486557 = new Ya.Metrika({id:20486557,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/20486557" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --><script type='text/javascript' src='http://java-course.ru/wp-content/plugins/answer-my-question/js/answer_my_question_scripts.js?ver=3.5.1'></script>
+
+</div> </div> </body>
+</html>
+------------oXMMJU328iwy27ljS7nFjW--
